@@ -1,0 +1,26 @@
+.strike {
+
+	text-decoration: overline;
+}
+
+.keyword {
+
+	border-color: black;
+	border-width: 2px;
+	border : solid;
+}
+
+.danger {
+
+	color: red;
+	background-color: yellow;
+	padding: 5px, 5px, 5px, 5px;
+}
+
+.success {
+
+	color: green;
+	border-color: grey;
+	border-width: 2px;
+	border : solid;
+}
